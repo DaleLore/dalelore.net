@@ -1,3 +1,23 @@
 body {
-  background-color: lightblue;
+  background: #8a9898;
+  margin: 0;
+  padding:0;
+}
+
+header {
+  background: grey;
+  display: flex;
+  flex-direction: row;
+}
+
+footer {
+  background: #14486b;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  justify-items: center;
+}
+
+.menuItem {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 }
