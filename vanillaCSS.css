@@ -10,7 +10,7 @@ header {
   flex-direction: row;
 }
 
-footer {
+.footer {
   background: #14486b;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
