@@ -1,11 +1,11 @@
 body {
-  background-color: #8a9898;
+
   margin: 0;
   padding:0;
 }
 
 header {
-  background: grey;
+
   display: flex;
   flex-direction: row;
 }
