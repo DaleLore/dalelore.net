@@ -1,5 +1,5 @@
 body {
-  background: #8a9898;
+  background-color: #8a9898;
   margin: 0;
   padding:0;
 }
@@ -11,8 +11,7 @@ header {
 }
 
 .footer {
-  background: #14486b;
+  background-color: #14486b;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  justify-items: center;
 }
