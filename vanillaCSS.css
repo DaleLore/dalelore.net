@@ -1,8 +1,15 @@
-body {
+
+.main {
 
   margin: 0;
-  padding:0;
+  padding-top: 30px;
+  padding-right: 50px;
+  padding-bottom: 30px;
+  padding-left: 50px;
+  width: 100%;
 }
+
+
 
 h1 {
   font-family: Arial;
@@ -10,13 +17,26 @@ h1 {
 
 h2{
   font-family: Arial;
-  
+
 }
 
 header {
 
   display: flex;
   flex-direction: row;
+}
+
+li {
+  display: flex;
+  flex-wrap: wrap;
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+p {
+  font-family: Arial;
+  
 }
 
 .footer {
