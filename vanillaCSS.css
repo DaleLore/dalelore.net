@@ -4,6 +4,15 @@ body {
   padding:0;
 }
 
+h1 {
+  font-family: Arial;
+}
+
+h2{
+  font-family: Arial;
+  
+}
+
 header {
 
   display: flex;
