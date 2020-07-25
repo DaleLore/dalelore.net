@@ -5,7 +5,7 @@
 ##### 2. [Domain Registration](#-domain-registration)
 ##### 3. [Website](#-website-design)
 * [HTML: HyperText Markup Language](#html-hypertext-markup-language)
-* [CSS: Cascading Style Sheets](#CSS:-Cascading-Style-Sheets)
+* [CSS: Cascading Style Sheets](#css-cascading-stylesheets
 
 
 ## Step up
@@ -90,7 +90,7 @@ HTML Doctype: Currently, the web is on [HTML5](https://www.w3.org/TR/html52/)
 
 
 
-#### ☑️  CSS: Cascading StyleSheets
+#### CSS: Cascading StyleSheets
 ###### Check out the CSS TEMPLATE
 * There are a bunch of templates on-line. W3 has some CSS templates that you can copy, for example. Or codepen.io!
 * If you want to do something from scratch, you’ll need to research the tags and attributes. Here are some terms that might help with your search:
