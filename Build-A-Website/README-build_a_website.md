@@ -1,7 +1,7 @@
 # REMINDERS ON THE BASICS: HOW TO BUILD A WEBSITE
 
 ## What you need
-##### 1. Web Hosting
+##### 1. [Web Hosting](#-web-hosting)
 ##### 2. [Domain Registration](#-domain-registration)
 ##### 3. Website
 * [HTML: HyperText Markup Language](#HTML:-HyperText-Markup-Language)
