@@ -16,10 +16,6 @@ Leasing the 'house': Web hosting is where your website will ‘live’. It’s b
 NOTE: You CAN have a web hosting provider without a domain name. Web hosting providers will just use their own URL addresses (i.e: .wix.com, .wordpress.org, etc). A unique domain name will look more professional and promote YOU rather than the web hosting provider.
 
 NOTE: You can buy the domain and web hosting together. Some companies like Wix and Squarespace do that. If you do them separately, you will have to set up an alias redirection from your domain name to your web hosting provider, but there are more benefits having them separated compared to the convenience of buying them packaged together.
-Sign up for a web hosting plan
-This depends on money and how comfortable you feel on the platform. A platform that has a lot of documentation (from other users. Not just the service), is always helpful.
-Web hosts automatically give you a domain name too, but it usually will have the service name somewhere in the URL.
-
 
 #### ☑️ Sign up for a web hosting plan 💸
   * This depends on money and how comfortable you feel on the platform. A platform that has a lot of documentation (from other users. Not just the service), is always helpful.
