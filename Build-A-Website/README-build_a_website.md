@@ -78,7 +78,7 @@ Honestly, this part is usually the hardest/tedious part of creating a website be
 #### HTML: HyperText Markup Language
 HTML Doctype: Currently, the web is on [HTML5](https://www.w3.org/TR/html52/)
 * The HTML Doc will house your content, CSS, and javascript. 
-* You can do CSS either one of three ways, in-line CSS within the body, <style> tags within the head (shown in the code below and explained in the table above) or use the link tags to refer to a separate stylesheet(.css)
+* You can do CSS either one of three ways, in-line CSS within the body, <style> tags within the head (shown in the HTML Template and explained in the table below) or use the link tags to refer to a separate stylesheet(.css)
 * JavaScript is optional. You can delete that if you don’t have a JS file
 * You’ll need to research the tags and attributes you want to put INSIDE the body elements. Here are some terms that might help with your search:
   * The Header Series: `<h1></h1>`, `<h2></h2>`, etc
