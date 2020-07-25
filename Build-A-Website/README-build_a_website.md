@@ -81,9 +81,9 @@ HTML Doctype: Currently, the web is on [HTML5](https://www.w3.org/TR/html52/)
 * You can do CSS either one of three ways, in-line CSS within the body, <style> tags within the head (shown in the code below and explained in the table above) or use the link tags to refer to a separate stylesheet(.css)
 * JavaScript is optional. You can delete that if you don’t have a JS file
 * You’ll need to research the tags and attributes you want to put INSIDE the body elements. Here are some terms that might help with your search:
-  * The Header Series: <h1></h1>, <h2></h2>, etc
-  * Paragraph tags: <p> You can type any text in here </p>
-  * Div tags <div> </div>
+  * The Header Series: `<h1></h1>`, `<h2></h2>`, etc
+  * Paragraph tags: `<p> You can type any text in here </p>`
+  * Div tags `<div> </div>`
   * Class names and ID tags
 
 ##### [Check out the HTML TEMPLATE](https://github.com/DaleLore/dalelore.github.io/blob/master/Build-A-Website/html-template.html)
