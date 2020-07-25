@@ -77,6 +77,15 @@ Honestly, this part is usually the hardest/tedious part of creating a website be
 
 #### HTML: HyperText Markup Language
 HTML Doctype: Currently, the web is on [HTML5](https://www.w3.org/TR/html52/)
+* The HTML Doc will house your content, CSS, and javascript. 
+* You can do CSS either one of three ways, in-line CSS within the body, <style> tags within the head (shown in the code below and explained in the table above) or use the link tags to refer to a separate stylesheet(.css)
+* JavaScript is optional. You can delete that if you don’t have a JS file
+* You’ll need to research the tags and attributes you want to put INSIDE the body elements. Here are some terms that might help with your search:
+  * The Header Series: <h1></h1>, <h2></h2>, etc
+  * Paragraph tags: <p> You can type any text in here </p>
+  * Div tags <div> </div>
+  * Class names and ID tags
+
 ##### [Check out the HTML TEMPLATE](https://github.com/DaleLore/dalelore.github.io/blob/master/Build-A-Website/html-template.html)
 
 |  Code  | Term & Link | Description |
@@ -84,12 +93,12 @@ HTML Doctype: Currently, the web is on [HTML5](https://www.w3.org/TR/html52/)
 | `<!doctype html>` | [DocType](https://www.w3schools.com/tags/tag_doctype.asp) | The Document Type Declaration (or DOCTYPE) is a document that tells the browser, “Hey! I’m a webpage! Read me!” |
 <`html`> | Opening HTML tags | This begins the HTML information. |
 `<html lang="en">` | [Language attribute](https://www.w3schools.com/tags/att_lang.asp) | Determines the language for the doc |
-`<head>  ` | [Opening head element]() | The container holds metadata of the website: title, character set, styles, language, etc. This info is more for the browser than the user. It then needs a closing head element. |
-`<meta charset="utf-8">`| [Character set]()| To display the HTML correctly, it needs to know the encoding.|
-`<title> [Name of Site] </title>` | [Title Tag]()|This defines the title of the HTML document. You usually see this in the tab of the browser.|
-`<style></style>` | [Style Element]() |A type of in-line CSS done in the head section.|
+`<head>  ` | [Opening head element](https://www.w3schools.com/html/html_head.asp) | The container holds metadata of the website: title, character set, styles, language, etc. This info is more for the browser than the user. It then needs a closing head element. |
+`<meta charset="utf-8">`| [Character set](https://www.w3schools.com/charsets/)| To display the HTML correctly, it needs to know the encoding.|
+`<title> [Name of Site] </title>` | [Title Tag](https://www.w3schools.com/tags/tag_title.asp)|This defines the title of the HTML document. You usually see this in the tab of the browser.|
+`<style></style>` | [Style Element](https://www.w3schools.com/html/html_css.asp) |A type of in-line CSS done in the head section.|
 `</head>`| Closing head element| This closes the head element!|
-`<body>` | [Opening Body Element]() | This is where the magic is down and gets shown. This is what the user sees. You put text and code in here. |
+`<body>` | [Opening Body Element](https://www.w3schools.com/jsref/prop_doc_body.asp) | This is where the magic is down and gets shown. This is what the user sees. You put text and code in here. |
 `</body>`| Closing Body Element | This closes the body element! |
 `</html>`| Closing HTML tag | This closes the HTML doc! The web will know that the information stops. |
 
@@ -108,12 +117,12 @@ HTML Doctype: Currently, the web is on [HTML5](https://www.w3.org/TR/html52/)
 # Resources
 
 ##### Blewer, Ashley. “Information Technologies“. Pratt Institute. Spring 2020.   https://github.com/ablwr/info654sp20/tree/master/syllabus
-* Mozilla web docs: Introduction to HTM
-* HTML Beginner Tutorial
-* CSS Basics
-* Current. Mozilla. Introduction to CSS
-* Current. Mozilla. CSS Selectors
-* CSS Beginner Tutorial
+* [Mozilla web docs: Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+* [HTML Beginner Tutorial](http://www.htmldog.com/guides/html/beginner/)
+* [CSS Basics](http://www.cssbasics.com/)
+* Current. Mozilla. [Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
+* Current. Mozilla. [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors)
+* [CSS Beginner Tutorial](https://www.htmldog.com/guides/css/beginner/)
 
 ###### Codecademy. “How to Create a Website.” https://www.codecademy.com/articles/f1-create-website
 
