@@ -6,6 +6,7 @@
 ##### 3. [Website](#-website-design)
 * [HTML: HyperText Markup Language](#html-hypertext-markup-language)
 * [CSS: Cascading Style Sheets](#css-cascading-stylesheets)
+##### 4. [Resources](#resources)
 
 
 ## Step up
