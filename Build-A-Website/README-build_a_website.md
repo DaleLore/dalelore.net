@@ -22,7 +22,7 @@ NOTE: You can buy the domain and web hosting together. Some companies like Wix a
   * Web hosts automatically give you a domain name too, but it usually will have the service name somewhere in the URL.
 
 #### ☑️ (Optional) Prep your web hosting provider for the domain name set up
-  * Depending on which platform you choose, you’ll need to “warn” your platform in the settings that something is going to be redirected to it.
+  * Depending on which platform you choose, you’ll need to “warn” your platform in the settings that something is going to be redirected to it. This usually involves files called CNAME.
 
 #### ☑️  What web hosting services are available? 🤔
 
