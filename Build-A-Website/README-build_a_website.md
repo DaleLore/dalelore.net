@@ -5,9 +5,7 @@
 ##### 2. [Domain Registration](#-domain-registration)
 ##### 3. [Website](#-website-design)
 * [HTML: HyperText Markup Language](#html-hypertext-markup-language)
-   * [HTML Template](https://github.com/DaleLore/dalelore.github.io/blob/master/Build-A-Website/html-template.html)
 * [CSS: Cascading Style Sheets](#css-cascading-stylesheets)
-   * [CSS Template](https://github.com/DaleLore/dalelore.github.io/blob/master/Build-A-Website/css-template.css)
 ##### 4. [Resources](#resources)
 
 
