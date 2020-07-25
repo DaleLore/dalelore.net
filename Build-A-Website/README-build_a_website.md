@@ -4,7 +4,7 @@
 ##### 1. [Web Hosting](#-web-hosting)
 ##### 2. [Domain Registration](#-domain-registration)
 ##### 3. [Website](#-website-design)
-* [HTML: HyperText Markup Language](#HTML:-HyperText-Markup-Language)
+* [HTML: HyperText Markup Language](#html-hypertext-markup-language)
 * [CSS: Cascading Style Sheets](#CSS:-Cascading-Style-Sheets)
 
 
@@ -70,7 +70,7 @@ Creating the files and data: This is the fun part! If you are using website buil
 
 ![Alt Text](./gifs/quora-html-css-hs.gif)
 
-#### ☑️ HTML: HyperText Markup Language
+#### HTML: HyperText Markup Language
 HTML Doctype: Currently, the web is on [HTML5](https://www.w3.org/TR/html52/)
 ###### Check out the HTML TEMPLATE
 
