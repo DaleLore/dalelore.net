@@ -1,0 +1,29 @@
+/* CSS TEMPLATE: Copy everything below and paste into the body! This is super basic and will work with the HTML TEMPLATE.  */
+
+
+body {
+          background-color: #1C2D47;
+          color: #FFFFFF;
+          font-family: Arial;
+          }
+
+    .header {
+          background-color: tomato;
+          color: white;
+          border: 2px solid black;
+          margin: 20px;
+          padding: 20px;
+          }
+
+    #container {
+      background-color: teal;
+      color: white;
+      border: 2px solid black;
+      margin: 20px;
+      padding: 20px;
+      }
+
+#container:hover {
+        background-color: yellow;
+        color: black;
+      }
