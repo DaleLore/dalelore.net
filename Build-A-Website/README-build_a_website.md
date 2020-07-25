@@ -69,7 +69,7 @@ Honestly, this part is usually the hardest/tedious part of creating a website be
 ### 🎨 Website Design
 * Creating the files and data: This is the fun part! If you are using website builders, they usually have templates that you can choose from.
 * If you are building a website from scratch, then you’ll need the basics: HTML and CSS. And JavaScript if you want, but it’s not necessary. If you're up to this part, then this also means you're going to need a text editor! Here are some available online:
-  * Mac and Windows: [Atom.io](https://atom.io/), [Sublimetext](https://www.sublimetext.com/), [Brackets.io](brackets.io), [Vim.org](vim.org)
+  * Mac and Windows: [Atom.io](https://atom.io/), [Sublimetext](https://www.sublimetext.com/), [Brackets.io](http://brackets.io/), [Vim.org](https://www.vim.org/)
   * Only Mac: [Textmate](https://macromates.com/)
   * Only Windows: [Notepad++](https://notepad-plus-plus.org/)
 
