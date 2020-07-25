@@ -1,9 +1,9 @@
 # REMINDERS ON THE BASICS: HOW TO BUILD A WEBSITE
 
 ## What you need
-##### 1. [Web Hosting](#🏠-Web-Hosting)
-##### 2. [Domain Registration](#📭-Domain-Registration)
-##### 3. [Website](#🎨-Website-Design)
+##### 1. Web Hosting
+##### 2. Domain Registration
+##### 3. Website
 * [HTML: HyperText Markup Language](#HTML:-HyperText-Markup-Language)
 * [CSS: Cascading Style Sheets](#CSS:-Cascading-Style-Sheets)
 
@@ -90,7 +90,7 @@ HTML Doctype: Currently, the web is on [HTML5](https://www.w3.org/TR/html52/)
 
 
 
-#### ☑️ CSS: Cascading StyleSheets
+#### ☑️  CSS: Cascading StyleSheets
 ###### Check out the CSS TEMPLATE
 * There are a bunch of templates on-line. W3 has some CSS templates that you can copy, for example. Or codepen.io!
 * If you want to do something from scratch, you’ll need to research the tags and attributes. Here are some terms that might help with your search:
