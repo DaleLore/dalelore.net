@@ -5,7 +5,9 @@
 ##### 2. [Domain Registration](#-domain-registration)
 ##### 3. [Website](#-website-design)
 * [HTML: HyperText Markup Language](#html-hypertext-markup-language)
+ * [HTML Template](https://github.com/DaleLore/dalelore.github.io/blob/master/Build-A-Website/html-template.html)
 * [CSS: Cascading Style Sheets](#css-cascading-stylesheets)
+ * [CSS Template](https://github.com/DaleLore/dalelore.github.io/blob/master/Build-A-Website/css-template.css)
 ##### 4. [Resources](#resources)
 
 
@@ -73,7 +75,7 @@ Creating the files and data: This is the fun part! If you are using website buil
 
 #### HTML: HyperText Markup Language
 HTML Doctype: Currently, the web is on [HTML5](https://www.w3.org/TR/html52/)
-###### Check out the HTML TEMPLATE
+##### [Check out the HTML TEMPLATE](https://github.com/DaleLore/dalelore.github.io/blob/master/Build-A-Website/html-template.html)
 
 |  Code  | Term & Link | Description |
 | -------------- | ---------------------------- | -------------------- |
@@ -92,7 +94,7 @@ HTML Doctype: Currently, the web is on [HTML5](https://www.w3.org/TR/html52/)
 
 
 #### CSS: Cascading StyleSheets
-###### Check out the CSS TEMPLATE
+##### [Check out the CSS TEMPLATE](https://github.com/DaleLore/dalelore.github.io/blob/master/Build-A-Website/css-template.css)
 * There are a bunch of templates on-line. W3 has some CSS templates that you can copy, for example. Or codepen.io!
 * If you want to do something from scratch, you’ll need to research the tags and attributes. Here are some terms that might help with your search:
   * For Layout: Grid and Flexbox
