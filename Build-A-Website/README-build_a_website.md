@@ -3,7 +3,7 @@
 ## What you need
 ##### 1. [Web Hosting](#-web-hosting)
 ##### 2. [Domain Registration](#-domain-registration)
-##### 3. Website
+##### 3. [Website](#-website-design)
 * [HTML: HyperText Markup Language](#HTML:-HyperText-Markup-Language)
 * [CSS: Cascading Style Sheets](#CSS:-Cascading-Style-Sheets)
 
