@@ -1,9 +1,10 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 4
 img: circletime.png
 alt: image-alt
-project-date: Sept 2020 - Present
+start-date: Sept 2020 - Present
+external_url: https://circletimefun.com/
 client: Circletime
 position: Senior Producer
 category: work

@@ -291,13 +291,6 @@ section.success {
       max-width: 32%;
     }
   }
-  /* A large grid might need four columns on widescreen layouts */
-  /* @media (min-width: 1380px) {
-    .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
-      flex: 1 0 23.5%;
-      max-width: 23.5%;
-    }
-  } */
 
 .btn-outline {
     margin-top: 15px;
@@ -383,7 +376,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #2c3e50;
+    background-color: #4c1130ff;
 }
 
 footer .footer-col {
@@ -392,7 +385,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #233140;
+    background-color: #4c1130ff;
 }
 
 .btn-social {
@@ -729,14 +722,25 @@ ul {
 /* END OF CODE FROM https://github.com/Redgadget/MyFirstWebsite/blob/gh-pages/assets/css/main.css */
 
 
-.contact-flex-grid {
-        display: flex;
-        justify-content: space-between; 
-    }
-.flex-grid-thirds .col .col-3 {
-        width: 32%;
-      }
+.contactMe {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  .column {
+    flex-basis: 100%;
+    text-align: center;
+  }
 
-.no-bull {
+  .no-bull {
     list-style-type: none;
-}
+  }
+  
+  @media screen and (min-width: 800px) {
+    .column {
+      flex: 1;
+
+    }
+  }
+
