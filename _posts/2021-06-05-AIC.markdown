@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 11
+img: AIC.png
+alt: image-alt
+member: 2020 - Present
+external_url: 
+affiliation: American Institute of Conservation
+position: EMG Secretary / Tresary
+category: project
+description: Accesslabs
+---

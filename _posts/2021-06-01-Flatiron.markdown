@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 9
+img: flatiron.png
+alt: image-alt
+graduated: April 2019 - August 2019
+external_url: 
+school: Flatiron School
+major: Full Stack Web Development
+category: edu
+description: Accesslabs
+---

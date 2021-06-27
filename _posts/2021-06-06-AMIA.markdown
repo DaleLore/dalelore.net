@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 10
+img: AMIA.png
+alt: image-alt
+member: 2013 - Present
+external_url: 
+affiliation: Association of Moving Image Archivists
+position: International Outreach Co-Chair
+category: project
+description: Accesslabs
+---

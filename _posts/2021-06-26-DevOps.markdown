@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+img: devops.png
+alt: image-alt
+project-date: Sept 2020 - Present
+client: Freelance 
+position: Developer
+category: work
+description: I work on a ton of WordPress websites.
+---
