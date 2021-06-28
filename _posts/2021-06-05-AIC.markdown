@@ -6,7 +6,7 @@ alt: image-alt
 member: 2020 - Present
 external_url: 
 affiliation: American Institute of Conservation
-position: EMG Secretary / Tresary
+position: EMG Secretary/Treasurer
 category: project
-description: Accesslabs
+description: Part of the Electronic Media Group (EMG), a specialty group in AIC that supports the work of conservators, artists, archivists, curators, registrars, collection managers, and other technical specialists in the conservation of artworks and other works of cultural heritage that employ historic or emerging audiovisual media, digital media, and electric or electronic technologies. As of 2021, I was elected as Secretary/Treasurer for EMG and will begin my 2-year term next year.
 ---

@@ -8,5 +8,5 @@ external_url:
 school: Flatiron School
 major: Full Stack Web Development
 category: edu
-description: Accesslabs
+description: 
 ---

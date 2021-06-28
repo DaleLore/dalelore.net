@@ -8,5 +8,5 @@ external_url:
 affiliation: Association of Moving Image Archivists
 position: International Outreach Co-Chair
 category: project
-description: Accesslabs
+description: Advocate of open-source and outreach within the audiovisual archiving community.
 ---
